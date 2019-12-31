@@ -17,7 +17,7 @@ Code for MRNet [competition](https://stanfordmlgroup.github.io/competitions/mrne
 git clone https://github.com/jessicaxuwang/MRNet
 ```
 
-2. Download MRNet dataset from [https://stanfordmlgroup.github.io/competitions/mrnet/]
+2. Download MRNet dataset from https://stanfordmlgroup.github.io/competitions/mrnet/
 
 3. Upzip the file in the `data` directory
 
@@ -26,5 +26,5 @@ git clone https://github.com/jessicaxuwang/MRNet
     * change the `data_dir` point to the MRNet data file that was just unzipped
 5. Issue the command 
 ```
-python src/train.py src/train_config.py` to train the model
+python src/train.py src/train_config.py to train the model
 ```
